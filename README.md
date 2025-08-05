@@ -52,8 +52,8 @@ Feel free to open issues or pull requests. Please ensure any contributions adher
 
 Feel free to reach out through GitHub or:
 
-- LinkedIn: [your-profile](https://www.linkedin.com/in/federico-mollica-502214153/)
-- My Tech_blog / website: (https://fmollica.flazio.com)
+- LinkedIn: [My-profile](https://www.linkedin.com/in/federico-mollica-502214153/)
+- My Tech_blog / website: [Federico Mollica - Tech Blog](https://fmollica.flazio.com)
 
 ---
 
